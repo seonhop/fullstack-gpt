@@ -1,0 +1,20 @@
+{
+    "patient_name": "John Doe",
+    "age": 50,
+    "gender": "Male",
+    "primary_complaint": "Chronic back pain",
+    "duration_of_symptoms": "3 months",
+    "pain_severity": 7,
+    "pain_description": "Sharp, radiating down the left leg",
+    "previous_injuries_or_surgeries": "Lumbar discectomy 5 years ago",
+    "medical_history": "High blood pressure",
+    "current_medications": "Atenolol",
+    "red_flag_symptoms": "None",
+    "symptom_triggers": "Worsens with physical activity, especially lifting heavy objects",
+    "symptom_relievers": "Improves with rest and NSAIDs",
+    "daily_activities_affected": "Difficulty bending and lifting objects",
+    "lifestyle_factors": "Physically active job, heavy lifting involved",
+    "dermatome_myotome_involvement": "Positive straight leg raise test indicating possible nerve compression (L5-S1 area)",
+    "pain_patterns": "Radiating pain down the left leg",
+    "goals_for_physical_therapy": "Pain relief and return to work"
+}
